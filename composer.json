@@ -1,11 +1,15 @@
 {
-    "name": "grafite/cms",
+    "name": "karlvalentin/cms",
     "description": "Add a CMS to any Laravel app/website to gain control of: pages, blogs, galleries, events, custom modules, images and more.",
     "license": "MIT",
     "authors": [
         {
             "name": "Matt Lantz",
             "email": "mattlantz@gmail.com"
+        },
+        {
+            "name": "Karl Valentin",
+            "email": "karl.valentin@kvis.de"
         }
     ],
     "require": {
